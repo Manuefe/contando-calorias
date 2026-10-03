@@ -1,0 +1,5 @@
+# proteina = float(input("Ingrese los gr de proteina:\n>"))
+# carbo = float(input("Ingrese el los de Carbohidrato:\n>"))
+# grasa = float(input("Ingrese el los de Grasa:\n>"))
+# print(f"los gramos de grasa son: {grasa}")
+print(27)
